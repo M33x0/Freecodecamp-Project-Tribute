@@ -1,0 +1,101 @@
+*{  
+    font-family: 'Rock Salt',cursive;
+} 
+
+.home{
+    background-color:black;
+    margin-top: 82px;
+    padding-top: 50px;
+    border-radius: 15px;
+}
+
+.home img{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+.biography{
+    margin-top:45px;
+    padding-bottom: 4px;
+    background-color:black;
+    border-radius: 15px;
+    padding-left: 15px;
+}
+
+.awards{
+    margin-top:45px;
+    padding-bottom: 7px;
+    background-color:black;
+    border-radius: 15px;
+}
+
+.discography
+{
+    margin-top:45px;
+    padding-bottom: 15px;
+    background-color:black;
+    border-radius: 15px; 
+    padding-left: 43px;
+}
+
+.best-moments{
+    padding-bottom: 1px;
+    margin-top:45px;
+    background-color:black;
+    border-radius: 15px;
+    
+}
+
+h1,h2,p{
+    font-family:'Rock Salt',cursive !important;
+    color:#d1acff  !important;
+}
+
+h1{
+    color:#d1acff !important;
+    font-size:55px !important;
+}
+h2{
+    text-decoration: underline;
+}
+
+ul{
+    margin-top: 40px;
+}
+ul li{
+    list-style: none;
+    font-family: 'Rock Salt',cursive;
+    float:left;
+    padding: 0  25px 0 25px;
+}
+
+.album{
+    color:#d1acff;
+}
+.al img{
+   width: 300px;
+    height: 300px; 
+}
+
+
+.foot-footer{
+    background-color:black;
+    margin-top:45px;
+    background-color:black;
+    border-radius: 15px;
+    
+}
+
+/*************************************************************ALBUMS*************************************************************/
+/********************************************************************************************************************************/
+.al
+{
+    position:relative;
+    top:19px;
+}
+
+/*************************************************************ALBUM*************************************************************/
+/*******************************************************************************************************************************/
+
+
